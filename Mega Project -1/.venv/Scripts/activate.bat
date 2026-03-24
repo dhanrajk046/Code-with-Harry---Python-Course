@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\pc\OneDrive\Desktop\CWD python course\Mega Project -1\.venv
+set VIRTUAL_ENV=C:\Users\pc\OneDrive\Desktop\Code-with-Harry---Python-Course\Mega Project -1\.venv
 
 if not defined PROMPT set PROMPT=$P$G
 
