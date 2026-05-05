@@ -1,0 +1,50 @@
+# 🔐 Environment variables (VERY IMPORTANT)
+.env
+.env.*
+
+# 🐍 Python cache & compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 📦 Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# 📊 Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# 🧪 Testing & coverage
+.coverage
+.coverage.*
+htmlcov/
+.pytest_cache/
+
+# 🧾 Logs
+*.log
+
+# 🧰 VS Code settings
+.vscode/
+
+# 🖥️ OS files
+.DS_Store
+Thumbs.db
+
+# 📦 Build / distribution
+build/
+dist/
+*.egg-info/
+
+# 🔑 Secrets / keys
+*.pem
+*.key
+*.crt
+
+# 📂 Temporary files
+*.tmp
+*.temp
+
+# 📄 Large files (optional)
+*.pdf
