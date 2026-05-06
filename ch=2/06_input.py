@@ -1,7 +1,7 @@
-a = input("Enter number 1: ")
+a = int(input("Enter number 1: "))
 
-b = input("Enter number 2: ")
+b = int(input("Enter number 2: "))
 
 print("Number a is: ", a)
 print("Number a is: ", b)
-print("Sum ")
+print("Sum is",a+b)
