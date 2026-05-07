@@ -1,7 +1,16 @@
-words={
+# words={
+#     "madad":"help",
+#     "kursi":"chair",
+#     "billi":"cat"
+# }
+# word=input("Enter the word you want meaning of: ")
+# print(words[word])
+
+words = {
     "madad":"help",
-    "kursi":"chair",
+    "Kursi":"chair",
     "billi":"cat"
 }
-word=input("Enter the word you want meaning of: ")
+
+word = input("Enter the word you want meaning of: ")
 print(words[word])
