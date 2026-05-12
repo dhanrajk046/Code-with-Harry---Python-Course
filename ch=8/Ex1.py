@@ -1,4 +1,4 @@
-# function definition
+# function defination
 def avg():
     a=int(input("Enter first number: "))
     b=int(input("Enter second number: "))
